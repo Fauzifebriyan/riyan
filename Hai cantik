@@ -1,0 +1,9 @@
+<!DOCKTYPE>
+<html>
+    <head>
+        <title>Dialog
+Alert</title>
+     </head>
+     <body>
+     <script>
+           alert("hai cantik") 
